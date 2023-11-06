@@ -1,0 +1,6 @@
+docker start <nome-do-container> ou docker start <id>
+
+Na aula 29, o professor apresenta esse comando para reutilizar o container.
+No caso do exercício anterior, o comando para reutilizar o container parado seria:
+
+docker start carguru-container

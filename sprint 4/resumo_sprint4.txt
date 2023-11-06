@@ -1,0 +1,11 @@
+A sprint 4 começou de forma tranquila, porém já no início notei que não absorvi conteúdo
+suficiente sobre python na sprint 3, quando fui aplicar conceito de programação funcional 
+em python gerou conflito pois, função ainda é algo que estou processando e entendendo.
+Tive reunião com os mentores Marcus e Matheus, fui muito bem acolhida e conseguimos chegar em
+uma solução para o meu problema. Precisarei rever programação funcional e aplicar melhor
+os conceitos, mas antes vou criar uma base sólida do básico em python.
+O curso de Docker foi muito esclarecedor, as primeiras seções já me deram uma base para
+solucionar os desafios de containers. O curso de estatísticas foi tranquilo, aprender sobre
+as bibliotecas em python e os problemas que posso solucionar com elas foi muito interessante,
+mas confesso que preciso revisar o conteúdo para fixar melhor o conhecimento. Vou aproveitar o
+feriado para rever alguns conceitos da sprint 4.

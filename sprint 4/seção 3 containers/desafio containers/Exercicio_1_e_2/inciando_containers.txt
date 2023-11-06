@@ -1,0 +1,19 @@
+Arquivo Dockerfile:
+
+FROM python
+
+WORKDIR /app
+
+COPY carguru.py .
+
+CMD ["python", "carguru.py"]
+
+
+Comando utilizado para construir a imagem e executar o container:
+
+docker build -t carguru-image .
+docker run carguru-image
+
+Resposta do Script python carguru.py executado no container:
+
+Você deve dirigir um Fiat Argo

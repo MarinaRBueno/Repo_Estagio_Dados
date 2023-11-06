@@ -1,0 +1,13 @@
+Sprint 1:
+
+1. Git e GitHub do básico ao avançado (c/ gist e GitHub Pages): O curso nos da uma base muito sólida sobre algumas situações rotineiras, aprendi comandos que serão utilizados diariamente como: Git init, git add ., git commit -m, git commit -a -m, git branch, git status, git clone,  etc..., e outros comandos que aparecerão em determinadas situações. 
+Consegui criar repositórios no GitHub e conecta-los com meu VS pelo terminal Git Bash, explorei a plataforma e suas possibilidades. 
+O que levo desse aprendizado é: a base sólida do conteúdo eu já construí, agora é continuar os estudos para fortalecer o aprendizado. No momento estou fazendo o Portfólio junto com o professor Mateus Batisti para revisando o que aprendi, pretendo continuar realizando outros projetos. Em breve enviarei o código do portfólio nesse repositório.
+
+2. Administração de Sistemas GNU/Linux (Fundamentos e prática): Confesso que nesse curso eu tive um pouco de dificuldade, não conhecia nada sobre o Linux e suas distribuições, então fiquei perdida na criação dos laboratórios pois, o Debian e o CentOS não funcionaram corretamente, o WSL no Windows também não, mas depois de pesquisar e trocar informações com os colegas descobri a distribuição MINT.
+Aprendi a história do Linux, qual o objetivo do SO, manipulação de conteúdos, usuários e grupos com comandos, editores de Texto (VI e Vim), gerenciadores de permissões e processos, etc. O que mais gostei foi a parte de Shell Script e no momento estou trabalhando em uma automatização, entendendo sua lógica, possibilidades e restrições. Assim como o Git e GitHub continuarei os estudos para fortalecer a base que construí.   
+
+Conclusão da Sprint 1.
+
+*Gostaria de pontuar a união com meu Squad Data Society, os membros são incríveis e conseguimos criar uma conexão que será sempre alimentada e fortalecida. Também gostaria de parabenizar o Líder da Sprint 1 Aylton pela excelente liderança*
+FIM DA SPRINT 1.

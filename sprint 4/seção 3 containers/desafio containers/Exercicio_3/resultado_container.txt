@@ -1,0 +1,25 @@
+Alguns resultados gerados no container com o script em python:
+
+Digite uma string para gerar o hash: o rato roeu a roupa do rei de roma
+7c70e1f9ef8b55d63fb4d696d72ea2ba7f5a29e5
+
+Digite uma string para gerar o hash: ola
+793f970c52ded1276b9264c742f19d1888cbaf73
+
+Digite uma string para gerar o hash: teste
+2e6f9b0d5885b6010f9167787445617f553a735f
+
+Digite uma string para gerar o hash: teste
+2e6f9b0d5885b6010f9167787445617f553a735f
+
+Digite uma string para gerar o hash: teste
+2e6f9b0d5885b6010f9167787445617f553a735f
+
+Digite uma string para gerar o hash: teste dois
+b2a2a69301721ab040b406bc6966c7fafd387376
+
+Digite uma string para gerar o hash: o rato roeu a roupa do rei de roma
+7c70e1f9ef8b55d63fb4d696d72ea2ba7f5a29e5
+
+Digite uma string para gerar o hash: sprint, sprint, sprint
+d8f1bee179825f5b021fe54e0b5c8d072cb8ad3a

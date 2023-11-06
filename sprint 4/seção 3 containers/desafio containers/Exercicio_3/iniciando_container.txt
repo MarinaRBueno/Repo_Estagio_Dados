@@ -1,0 +1,26 @@
+Script python:
+
+import hashlib
+
+while True:
+    string = input("Digite uma string para gerar o hash: ")
+    hash_string = hashlib.sha1(string.encode())
+    hex_dig_string = hash_string.hexdigest()
+    print(f"{hex_dig_string}\n")
+
+
+Arquivo Dockerfile:
+
+FROM python
+
+WORKDIR /mascarar
+
+COPY mascarar_dados.py .
+
+CMD ["python", "mascarar_dados.py"]
+
+
+Comando utilizado para construir a imagem e executar o container:
+
+docker build -t mascarar dados .
+docker run -it mascarar-dados

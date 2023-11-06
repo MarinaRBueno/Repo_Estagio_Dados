@@ -1,0 +1,12 @@
+Sprint 2:
+
+1. SQL para Análise de Dados: Tive uma base sólida construída pelo professor Victor Pedroso, na disciplina de Banco de Dados na Unicesumar. Essa base consiste em: aprender a criar schemas e tabelas, uso da primary keys e foreign key, saber criar, ler e interpretar um DER. No curso de SQL consolidei os ensinamentos, mas veio um novo obstáculo: Construção de Query. 
+A principio tive dificuldade com os exercícios da loja e biblioteca, porque não entendia a lógica das queries e muito menos como construí-las. 
+Superei esse desafio, quando apliquei o que foi ensinado na faculdade e curso, observei o DER e analisei as PK e FK e como se relacionavam, entendi a Sintaxe do SQL, e conferi o schema. 
+Quando entendi o que o exercício queria, e soube de quais tabelas extrair as informações, ficou mais fácil usar os comandos necessários para construir as queries.
+Essa trilha de SQL, por enquanto foi minha preferida e minha evolução nela foi gigante. 
+
+2. BIG DATA FUNDAMENTOS 3.0:
+A introdução no curso de BIG DATA, junto com os pdf’s disponibilizados na trilha, foram muito esclarecedores para entender o que é BIG DATA e como a Compass trabalha juntamente com a AWS. 
+A parte que mais fixou em minha mente foi a importância de se extrair valor dos dados que se obtém: tenho um volume gigante de dados, com grande velocidade e variedade, mas o que fazer com eles? Como apresentar soluções eficientes? Como aplicar BIG DATA ANLITICS?
+Essas perguntas e todo o conhecimento obtidos foram como sementes plantadas, que irei regando ao longo das sprints, para agrega-las no projeto final apresentando resultados satisfatórios. 

@@ -1,0 +1,66 @@
+Criando schema:
+CREATE DATABASE meubanco
+
+Criando tabela:
+
+CREATE EXTERNAL TABLE IF NOT EXISTS meubanco.nomescsv ( 
+nome STRING, 
+sexo STRING, 
+total INT, 
+ano INT ) 
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.lazy.LazySimpleSerDe' WITH SERDEPROPERTIES ( 
+'serialization.format' = ',', 'field.delim' = ',' ) 
+LOCATION 's3://bucket-marina-rodrigues/dados/'
+
+
+Querie teste:
+
+select nome from meubanco.nomescsv where ano = 1999 order by total limit 15;
+
+Resultado:
+
+1	
+Achsah
+2	
+Aanya
+3	
+Abinaya
+4	
+Abriona
+5	
+Accalia
+6	
+Aalijah
+7	
+Aania
+8	
+Aaren
+9	
+Abbigaile
+10	
+Abla
+11	
+Abrianne
+12	
+Aby
+13	
+Adalee
+14	
+Adaiah
+15	
+Abish
+
+
+Querie para os 3 nomes com maior total:
+
+SELECT nome, sexo, total, ano
+FROM (
+  SELECT nome, sexo, total, ano,
+         ROW_NUMBER() OVER (PARTITION BY CAST(ano/10 AS INT) ORDER BY total DESC) AS rn
+  FROM nomescsv
+  WHERE ano >= 1950
+) AS subquery
+WHERE rn <= 3
+ORDER BY ano
+
+Quero revisar esse exercicio com tempo e melhorar a query!!!!!!

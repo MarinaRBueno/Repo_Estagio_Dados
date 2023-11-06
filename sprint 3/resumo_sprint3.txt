@@ -1,0 +1,10 @@
+Resumo sobre a Sprint 3:
+
+Nunca tive contato com python antes da sprint 3, o curso da sprint foi muito avançado 
+para incitante, porém eu fui e corri atrás do prejuízo. Participei de ligações com 
+amigos que me explicaram o contexto inicial, vi vídeo aulas no YouTube para iniciantes, consegui aplicar os conceitos nas atividades, tive dificuldades, mas os membros dos Squads me ajudaram e eu também ajudei no que sabia. Essa sprint foi um pouco cansativa, pois o curso não supriu as necessidades essenciais para os exercícios, tive que ignorar um pouco o conteúdo do curso e buscar totalmente fora. Consegui entender que precisamos trabalhar no problema atual, e depois de resolve-lo podemos melhorar o que já foi feito prevendo problemas futuros, sempre com foco na entrega para o cliente.
+Foi de grande aprendizado, irei continuar estudando python, desde o inicio e 
+depois de uma base bem sólida irei aplicar o conceito de POO, por não ter essa 
+base acabei confundindo métodos com funções normais e isso me prejudicou. 
+No mais, estou feliz com meu progresso e na entrega do trabalho. 
+Eu fui líder nessa sprint e com certeza é um aprendizado que jamais irei esquecer.  

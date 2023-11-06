@@ -1,0 +1,25 @@
+Tema:
+Filmes/Animações Multiculturais: Uma Janela para o Mundo: Explorando Diversidade e Sucesso Financeiro.
+
+Estudo de caso:
+O cliente está interessado em entrar no ramo de produção de filmes/animação, com foco na inspiração de diferentes culturas. Ele reconhece que produções que abordam e celebram a diversidade cultural têm o potencial de se tornarem campeões de bilheteria. No entanto, antes de iniciar suas pesquisas para a construção de roteiros, ele tem algumas questões específicas em mente:
+
+(Análises)
+
+1. Análise Comparativa de Receita e Orçamento: O cliente tem interesse em realizar uma análise comparativa entre a receita e o orçamento de cada filme selecionado. O objetivo é determinar se os filmes foram lucrativos, levando em consideração a diferença entre a receita obtida e o orçamento estabelecido. Essa análise permitirá identificar quais filmes superaram as expectativas financeiras, gerando lucro, e quais filmes podem ter ficado abaixos das projeções, resultando em prejuízo ou baixa rentabilidade. Essa avaliação fornecerá uma visão clara sobre a performance financeira de cada filme em relação ao orçamento estabelecido.
+2. Relação entre Nota Média e Lucro: O cliente gostaria de investigar se há filmes com nota média abaixo de 7.5 que ainda obtiveram lucro. Isso fornecerá insights sobre a possível desconexão entre a avaliação crítica e o desempenho financeiro, especialmente quando se trata de filmes com aspectos culturais.
+3. Elaboração de Rankings: O cliente planeja usar os filmes selecionados para a pesquisa para criar um ranking com base na nota média atribuída, um ranking de popularidade e outro ranking com base no lucro obtido. Esses rankings ajudarão a identificar os filmes mais bem avaliados e os mais lucrativos, fornecendo informações valiosas para sua estratégia de produção.
+
+Objetivo final:
+
+Com essas questões em mente, o cliente está preparado para realizar pesquisas aprofundadas e usar os insights adquiridos para orientar a criação de roteiros que celebrem as diferentes culturas e alcancem sucesso tanto artístico quanto financeiro.
+
+• Serão utilizados 20 filmes escolhidos pelo cliente para a análise. Sendo eles:
+
+Moana, Pocahontas, Spider-Man: Into the Spider-Verse, The Princess and the Frog, Mulan, Raya and the Last Dragon, Frozen, Aladdin, Spirited Away, Encanto, Turning Red, Coco, Anastasia, The Jungle Book, Lilo & Stitch, Atlantis: The Lost Empire, Brave, The Emperor's New Groove, The Road to El Dorado, The Hunchback of Notre Dame.
+
+
+• Dados interessantes sobre os filmes presente no movies.csv: ID, Ano de lançamento, Título Principal, Nota Média, Ator/Atriz, Personagem, Títulos Mais Conhecidos.
+
+
+Decidi montar esse "estudo de caso" para me organizar, entender melhor o sentido da minha pesquisa e poder montar análises que cumpram o objetivo estabelecido.
