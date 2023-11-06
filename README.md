@@ -40,8 +40,5 @@ A empresa Compass.Uol recebeu os estágiarios da melhor forma possível, utiliza
 
 ## Estudo de Casos (Projeto com o arquivo de filmes.csv)
 
-A partir da Sprint 7 mais precisamente no Desafio 3, tem detalhado todo o meu estudo de caso, aplicando tudo que aprendi na Compass, e para finalizar um Dashboard com os insights relevantes para o projeto. Deixo aqui meu agradecimento a empresa Compass.uol por todo conhecimento obtido.
-
-Projeto para fins estudiodos!!! Atenciosamente,
-
+A partir da Sprint 7 mais precisamente no Desafio 3, tem detalhado todo o meu estudo de caso, aplicando tudo que aprendi na Compass, e para finalizar um Dashboard com os insights relevantes para o projeto. Deixo aqui meu agradecimento a empresa Compass.uol por todo conhecimento obtido. Projeto para fins estudiosos!!! Atenciosamente,
 Marina.
