@@ -2,7 +2,7 @@
 
 ## **Quem sou eu?**
 
-Meu nome é Marina Rodrigues Bueno, tenho 26 anos e sou natural de Capivari-SP, onde moro atualmente. Estudo Análise desenvolvimento de sistemas pela Unicesumar no modelo EAD, entrei no segundo semestre do ano passado e por enquanto as disciplinas que mais gostei foram:
+Meu nome é Marina estudo Análise desenvolvimento de sistemas pela Unicesumar no modelo EAD, entrei no segundo semestre de 2022 e por enquanto as disciplinas que mais gostei foram:
 
 1. Design de interação;
 
